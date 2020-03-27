@@ -1,0 +1,1 @@
+contratosNovencido:= contratos reject: [ contratos vencido ].contratos collect: [ contratosNoVencidos empleado].

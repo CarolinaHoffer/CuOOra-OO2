@@ -1,0 +1,1 @@
+dic:=Dictionary new.dic at: 5 put: 100. dic at: 10 put: 500. dic at: 15 put: 1900. coleccion:= OrderedCollection new.coleccion:= (dic keys) select: [ :each | each < 4 ].coleccion

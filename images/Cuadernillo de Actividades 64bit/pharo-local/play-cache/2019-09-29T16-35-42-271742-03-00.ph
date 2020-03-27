@@ -1,0 +1,1 @@
+|sampleSet|sampleSet := FilteredSet condition: [:elem | elem size > 20].sampleSet add: 'Este no entra bla blalalalallalalalllllllllllllllllllllllllllllasdasddasdadadadasdasd'.sampleSet add: 'Este si entra porque tiene más de veinte caracteres. Esrealmente muy largo'.

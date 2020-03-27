@@ -1,0 +1,1 @@
+Metacello new   baseline: 'FigurasYCuerposSkeleton';   repository: 'bitbucket://lifia-oop/practicas-objetos-1';   load.

@@ -1,0 +1,1 @@
+|col|col:= OrderedCollection new.col add:5; add:8; add: 5.col detect: [:each | each=2 ] ifNone: [^false] 

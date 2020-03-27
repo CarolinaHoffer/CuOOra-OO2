@@ -1,0 +1,1 @@
+d:=Date year: 1972 month: 09 day: 12.d equals: Date year: 1972 month: 09 day: 12. 

@@ -1,0 +1,1 @@
+|hola|hola:='hello'.hola sameAs: 'herlo'.

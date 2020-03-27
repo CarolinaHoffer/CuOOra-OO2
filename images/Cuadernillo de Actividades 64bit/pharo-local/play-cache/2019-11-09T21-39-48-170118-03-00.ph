@@ -1,0 +1,1 @@
+c:='hola'.d:='hola'.d = c.

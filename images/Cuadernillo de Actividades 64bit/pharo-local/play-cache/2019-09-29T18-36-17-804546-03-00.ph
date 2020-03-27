@@ -1,0 +1,1 @@
+Metacello newbaseline: 'DistribuidoraSolution';repository: 'bitbucket://lifia-oop/practicas-objetos-1';load.

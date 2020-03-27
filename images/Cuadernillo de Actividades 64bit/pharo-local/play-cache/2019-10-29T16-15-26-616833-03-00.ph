@@ -1,0 +1,1 @@
+|hol|hol:= OrderedCollection new.hol add: 2; add: 78.hol remove: 78hol

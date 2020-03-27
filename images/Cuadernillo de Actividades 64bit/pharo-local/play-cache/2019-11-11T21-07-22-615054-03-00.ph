@@ -1,0 +1,1 @@
+d:= 'juego'.c:= 5.s:='Software ',d, ' cantidad ', c asString.

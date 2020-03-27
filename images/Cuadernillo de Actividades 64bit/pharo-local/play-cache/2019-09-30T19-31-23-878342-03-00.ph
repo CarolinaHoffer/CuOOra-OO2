@@ -1,0 +1,1 @@
+|s|s:= OrderedCollection new.s add: 2.s add: 4.s add: 1.s.

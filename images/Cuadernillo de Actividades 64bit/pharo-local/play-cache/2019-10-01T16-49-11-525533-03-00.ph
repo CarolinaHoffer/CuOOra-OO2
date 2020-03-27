@@ -1,0 +1,1 @@
+|cuenta cuenta2 cuenta3 cole|cuenta:=CajaDeAhorro new.cuenta depositar: 200.cuenta2:=CajaDeAhorro new.cuenta3:=CajaDeAhorro new.cole:= SortedCollection new.cole sortBlock: [:each| each isNotNil].cole add: cuenta2.cole add:cuenta.cole add:cuenta3.cole.
