@@ -1,1 +1,0 @@
-d:=Date year: 2019 month: 10 day: 29.ad:=Date year: 2019 month: 10 day: 31. hoy:= Date today.(d - ad) asDays

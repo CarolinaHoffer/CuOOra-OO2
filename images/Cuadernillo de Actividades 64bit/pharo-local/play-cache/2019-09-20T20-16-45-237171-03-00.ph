@@ -1,1 +1,0 @@
-|var|var:=OrderedCollection new.

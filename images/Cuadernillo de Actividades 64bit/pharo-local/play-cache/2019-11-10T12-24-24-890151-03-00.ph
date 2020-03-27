@@ -1,1 +1,0 @@
-e:= OrderedCollection new.e add: 'hola'; add: 'chau'; add: 'goodbye'; add:'hola'.s:= e contains: [ :each | each includesSubstring: 'ol'].Duration

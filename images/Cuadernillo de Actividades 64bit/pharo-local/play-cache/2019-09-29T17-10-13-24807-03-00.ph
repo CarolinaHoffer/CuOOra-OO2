@@ -1,1 +1,0 @@
-|usuario|usuario:= Usuario nombre: 'maria' domicilio:'la plata' 

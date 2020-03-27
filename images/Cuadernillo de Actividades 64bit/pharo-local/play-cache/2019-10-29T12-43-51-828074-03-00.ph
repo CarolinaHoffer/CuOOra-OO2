@@ -1,1 +1,0 @@
-^(2 * Float pi * 2 * (1 + 2) * Float pi * 2 squared) = 473.7410112522892

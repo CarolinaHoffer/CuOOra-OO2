@@ -1,1 +1,0 @@
-|radi diam|radi:=3.diam:= 2* radi.Float pi / diam.
