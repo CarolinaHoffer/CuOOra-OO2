@@ -1,1 +1,1 @@
-|a b|a:= OrderedCollection new.b:= OrderedCollection new.a add: 2.a add: 3.b 
+|a b c d|a:= OrderedCollection new.b:= OrderedCollection new.c:= OrderedCollection new.a add: 2.a add: 3.b add:89.b add:7.c add:a. c add: b.c.d:= OrderedCollection new.c do: [ :each | d addAll: each ].d
