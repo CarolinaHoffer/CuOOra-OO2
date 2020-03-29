@@ -1,0 +1,1 @@
+|a|a:= OrderedCollection new.a add: 2.a add: 3.a remove: 4 ifAbsent: [^('no se encuentra') ]
