@@ -1,0 +1,3 @@
+public
+devolverPuntaje
+  ^50.

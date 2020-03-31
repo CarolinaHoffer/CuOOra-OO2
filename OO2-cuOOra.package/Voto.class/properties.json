@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "OO2-cuOOra",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"valor",
+		"creacion",
+		"votante"
+	],
+	"name" : "Voto",
+	"type" : "normal"
+}
